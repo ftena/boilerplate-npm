@@ -1,0 +1,23 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "tarod",
+	"description": "back-end-development-and-apis - Managing Packages with NPM @ freecodecamp.org",
+	"keywords": [
+		"freecodecamp",
+		"back-end",
+		"development"
+	],
+	"license": "MIT",
+	"version": "2.10.2",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
